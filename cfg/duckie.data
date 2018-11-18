@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/orlandom/Documents/UdeM/A2018/Duckietown/train.txt
+valid  =/home/orlandom/Documents/UdeM/A2018/Duckietown/dataset_images_203.txt
+names = data/duckie.names
+backup = duckie_backup
+
